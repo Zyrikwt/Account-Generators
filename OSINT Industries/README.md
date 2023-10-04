@@ -13,6 +13,7 @@ Install the required Python dependencies using pip:
 
 ### 3. WebDriver
 You need to download the Microsoft Edge WebDriver compatible with your Microsoft Edge browser version. You can download it from the official Microsoft WebDriver download page:
+https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 
 Download Microsoft WebDriver
 ### 4. WebDriver Location
