@@ -15,7 +15,6 @@ Install the required Python dependencies using pip:
 You need to download the Microsoft Edge WebDriver compatible with your Microsoft Edge browser version. You can download it from the official Microsoft WebDriver download page:
 https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 
-Download Microsoft WebDriver
 ### 4. WebDriver Location
 Place the downloaded WebDriver executable in a directory that is included in your system's PATH environment variable. This is essential for Selenium to locate and use the WebDriver.
 
